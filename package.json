@@ -1,0 +1,25 @@
+{
+  "name": "typescripttuto",
+  "version": "1.0.0",
+  "description": "tuto typescript graphikart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jreuh/typescriptTuto.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "JR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jreuh/typescriptTuto/issues"
+  },
+  "homepage": "https://github.com/Jreuh/typescriptTuto#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
